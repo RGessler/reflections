@@ -1,0 +1,2 @@
+bugs can only be in lines that have changed.
+you see the history of changes.
